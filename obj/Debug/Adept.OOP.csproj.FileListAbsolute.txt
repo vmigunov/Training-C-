@@ -1,0 +1,7 @@
+C:\Users\Adept\source\repos\Adept.OOP\Adept.OOP\bin\Debug\Adept.OOP.exe.config
+C:\Users\Adept\source\repos\Adept.OOP\Adept.OOP\bin\Debug\Adept.OOP.exe
+C:\Users\Adept\source\repos\Adept.OOP\Adept.OOP\bin\Debug\Adept.OOP.pdb
+C:\Users\Adept\source\repos\Adept.OOP\Adept.OOP\obj\Debug\Adept.OOP.csprojAssemblyReference.cache
+C:\Users\Adept\source\repos\Adept.OOP\Adept.OOP\obj\Debug\Adept.OOP.csproj.CoreCompileInputs.cache
+C:\Users\Adept\source\repos\Adept.OOP\Adept.OOP\obj\Debug\Adept.OOP.exe
+C:\Users\Adept\source\repos\Adept.OOP\Adept.OOP\obj\Debug\Adept.OOP.pdb
